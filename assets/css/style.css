@@ -1,0 +1,15 @@
+body, 
+html {
+	min-height: 100%;
+}
+
+body {
+	background-image: url(https://www.google.com/search?q=quizlet+pictures&tbm=isch&source=iu&ictx=1&fir=4RfugRLVKOI0oM%253A%252CXAXo5ZUjOckZCM%252C_&usg=AI4_-kQbGCOY70UALQW1V-qiQ1leu4NTHQ&sa=X&ved=2ahUKEwiysraN29ndAhWKHzQIHWZJCmQQ9QEwA3oECAMQCA#imgrc=4RfugRLVKOI0oM);
+	background-repeat: no-repeat;
+}
+	
+	h1 {
+		color: blue;
+		font-style:italic;
+
+	} 
